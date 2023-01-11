@@ -1,4 +1,4 @@
-﻿id,group,sex,bodyweight,timepoint,0,15,30,60,90,120
+﻿id,group,sex,bodyweight,timepoint,t0,t15,t30,t60,t90,t120
 F208,WT,F,22.8,0,122,194,196,188,186,189
 F039,CLOCK,F,26.7,0,188,165,355,596,218,206
 F014,WT,F,25.1,0,182,289,240,219,205,231
